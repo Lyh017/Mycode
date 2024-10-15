@@ -1,0 +1,5 @@
+1 king 3
+2 Paul 2
+5 Mike 1
+9 Yang 1
+4 Chris 1
