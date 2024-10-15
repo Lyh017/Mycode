@@ -1,0 +1,4 @@
+﻿  Sort.c
+D:\数据结构\code\Sort\Sort\Sort.c(570,2): warning C4013: “memset”未定义；假设外部返回 int
+D:\数据结构\code\Sort\Sort\Sort.c(606,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Sort.vcxproj -> D:\数据结构\code\Sort\x64\Debug\Sort.exe

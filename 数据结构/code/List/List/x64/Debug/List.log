@@ -1,0 +1,3 @@
+﻿  test.c
+D:\数据结构\code\List\List\List.h(1,1): warning C4828: 文件包含在偏移 0x2c8 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  List.vcxproj -> D:\数据结构\code\List\x64\Debug\List.exe
